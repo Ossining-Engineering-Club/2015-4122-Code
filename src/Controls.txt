@@ -1,0 +1,8 @@
+
+
+Right Joystick - Stick(0)
+Left Joystick - stick(1)
+Button 2 = pneumatics grab arms
+Button 3 = pneumatics release arms 
+Button 4 = pneumatics compressor on/off
+

@@ -1,0 +1,14 @@
+Ossining 2015 Robot
+
+3/12/15 V1.8 Fill in Autonomous Mode - Dr. Ocheltree
+	- Added to display GetBooleans for Left, Right and Middle
+
+3/10/14 V1.7 Added Autonomous Mode - Kevin and James
+	- Added 3 Cases for Left, Middle and Right
+
+2/14/15 V1.6 Added Untrasonic Sensor & Moved Contorls to Lift Stick
+	- Added USSensor.cpp and USSensor.h from 2013 Code
+	- Added Display of USSensor range to Smart Display
+	- Moved control of compressor to Lift stick
+
+
